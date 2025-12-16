@@ -8,9 +8,8 @@ It showcases my profile, projects, skills, and contact details in a clean and re
 ## 🚀 Live Website
 
 👉 **Live Demo:**  
-https://yourusername.github.io/rishi-portfolio/
+https://https://github.com/rsankara/rishi-portfolio/
 
-*(Replace `yourusername` with your GitHub username)*
 
 ---
 
