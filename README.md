@@ -8,7 +8,7 @@ It showcases my profile, projects, skills, and contact details in a clean and re
 ## 🚀 Live Website
 
 👉 **Live Demo:**  
-https://https://github.com/rsankara/rishi-portfolio/
+https://https://github.com/rsankara/
 
 
 ---
